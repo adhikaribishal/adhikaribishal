@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Bishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhikaribishal)]
+
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313wve2ijma3yuhvjjh3jx6jnoeu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313wve2ijma3yuhvjjh3jx6jnoeu&redirect=true)
